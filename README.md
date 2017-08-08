@@ -1,1 +1,1 @@
-# edureka
+# edureka 1.0
